@@ -146,6 +146,4 @@ MIT
 
 **Last Updated:** 17 Oktober 2026
 
-**Developer:** Kiro AI
-
 Lihat [Issues](https://github.com/Fugakuuu/Wedding-Org/issues) untuk task yang sedang dikerjakan.
